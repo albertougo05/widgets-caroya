@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paquetes>
+
+  <background_img>autogest_bkg.png</background_img>
+  <!-- Cambiar por paquetes -->
+  <sdmModule_id>news</sdmModule_id>
+  <widget_name>news</widget_name>
+
+  <module>
+      <image_normal>img/estado-expanded.png</image_normal> 
+      <image_focused>img/estado-selected.png</image_focused> 
+      <image_selected>img/estado-expanded.png</image_selected> 
+      <image_unselected>img/estado-unselected.png</image_unselected> 
+      <sdmModule_path>/index.php</sdmModule_path> 
+  </module>
+
+</paquetes>

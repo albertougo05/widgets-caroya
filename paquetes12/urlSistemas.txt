@@ -1,0 +1,2 @@
+
+http://isp.coop5.com.ar/api.php?idUsuario=45&token=32f950c51e3c3538908828a2ff024339&datos={['idAccion': 'CobrarServicioAdicionalIptv', 'idPrestacion': '176748', 'idAcceso': '99999', 'idAdicionalIptv': '6']}
